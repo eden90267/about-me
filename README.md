@@ -17,6 +17,8 @@
 
 ### 中佑資訊有限公司 - 系統開發工程師
 
+#### 工作資歷
+
 ??/??/2015 - 至今，工作年資：3 year+
 
 #### 職務角色
@@ -39,7 +41,7 @@
 - DevOps推動計畫與實踐
     - Jenkins部署可版控(Jenkinsfile)
     - docker image化(Dockerfile or Packer)
-    - docker swarmkit、kubernetes與ansible混和模式導入
+    - docker swarmkit、kubernetes與ansible混合模式導入
     - Prometheus監控與報警
 - 測試機器(SIT、SAT、Trial區)服務架設與維護
     - CoreOS、Docker、filebeat、Rancher
