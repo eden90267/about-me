@@ -19,7 +19,7 @@
 
 #### 工作資歷
 
-??/??/2015 - 至今，工作年資：3 year+
+??/??/2015 - 至今，工作年資：3+ year
 
 #### 職務角色
 
@@ -269,6 +269,52 @@
 - Scrum
 
 ## 作品
+
+### GitHub
+
+- [https://github.com/eden90267](https://github.com/eden90267)
+- [個人技術部落格](https://eden90267.github.io/)
+
+### Static Web Page
+
+- [sunshine](https://eden90267.github.io/sunshine/)
+    - HTML、CSS
+- [donut-whole](https://eden90267.github.io/donut-whole/)
+    - HTML、CSS、Google Font
+- [午茶室](https://eden90267.github.io/afternoon-tea-room/)
+    - HTML、CSS、Bootstrap、animate、RWD、Google Map API
+- [六角線上教學首頁](https://eden90267.github.io/hex-school-final-hw/)
+    - PSD 切版成 HTML、CSS
+- [六角西餐廳](https://eden90267.github.io/hex-school-rwd-final-hw/)
+    - [首頁](https://eden90267.github.io/hex-school-rwd-final-hw/) 、[登入頁](https://eden90267.github.io/hex-school-rwd-final-hw/login.html)、 [註冊頁](https://eden90267.github.io/hex-school-rwd-final-hw/registry.html)、 [產品訂購頁](https://eden90267.github.io/hex-school-rwd-final-hw/cart.html)
+    - HTML、CSS、RWD
+- [pokemon-fight](https://eden90267.github.io/pokemon-fight/)
+    - HTML、CSS、JavaScript、babel、bower、gulp
+- [iRich 愛記帳](https://eden90267.github.io/irich/)
+    - HTML、CSS、JavaScript、Bootstrap、Chart.js、babel、bower、gulp、Firebase
+- [高雄旅遊網](https://eden90267.github.io/hex-js/hw1/)
+    - HTML、CSS、JavaScript、Bootstrap、RWD、jQuery Ajax
+    - 註：需允許載入不安全指令碼，因外接API不具https
+- [BMI Calculator](https://eden90267.github.io/hex-js/hw2/)
+    - HTML、CSS、JavaScript、Bootstrap、RWD、LocalStorage
+- [高雄旅遊Google Map](https://eden90267.github.io/hex-js/ch14/GoogleMap-select-and-json/)
+    - HTML、CSS、JavaScript、Google Map API、Ajax、Snazzy Maps
+    - 註：需允許載入不安全指令碼，因外接API不具https
+
+### Todo List
+
+- [農場備忘](https://eden90267.github.io/hex-js/ch10/localstorage-hwTalk/)
+    - HTML、CSS、JavaScript、LocalStorage
+- [todolist-vue](https://eden90267.github.io/todolist-vue/)
+    - HTML、CSS、JavaScript、vue
+
+
+### Google Chrome Extension
+
+- [chrome-extension-byebyefb](https://github.com/eden90267/chrome-extension-byebyefb)
+    - HTML、CSS、JavaScript、babel、bower、gulp
+- [chrome-extension-beautytab](https://github.com/eden90267/chrome-extension-beautytab)
+    - HTML、CSS、JavaScript、babel、bower、gulp
 
 ## 自我介紹
 
