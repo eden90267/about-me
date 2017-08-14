@@ -21,7 +21,12 @@
 
 ### HTML/CSS
 
-- 瞭解HTML語意標籤與適用場合、SEO
+- 瞭解HTML語意標籤與適用場合、SEO optimize
+- HTML 5
+    - html tag
+    - drag and drop
+    - process
+    - web worker
 - 能使用CSS進行網頁排版
 - 能使用CSS Media Query實現RWD響應式設計
 - 瞭解CSS3 Animate、transform、transition與selector
@@ -59,6 +64,8 @@
         - React-Motion
     - Isomorphic
 - Vue
+- Google API
+- Facebook for Developers
 
 ### Template Engine
 
@@ -152,7 +159,7 @@
     - JSF & Primefaces
     - JPA
     - EJB
-- Hibernates
+- Hibernates *
 - ASP.NET
 - Entity Framework
 
@@ -185,11 +192,11 @@
 
 ### IDE & Dev Tools
 
-- WebStorm
-- Intellij IDEA
-- DataGrip
-- VSCode
-- Sublime Text
+- WebStorm *
+- Intellij IDEA *
+- DataGrip *
+- VSCode *
+- Sublime Text *
 - Robomongo
 - Prepros
 - fire.app
