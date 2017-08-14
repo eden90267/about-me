@@ -58,7 +58,7 @@
 - jQuery *
 - React & Flux & Redux *
     - React-Router
-    - Redux-Thunk、Redux-Saga
+    - Redux-Thunk、Redux-Promise、Redux-Saga
     - React Animate
         - ReactCSSTransitionGroup
         - React-Motion
