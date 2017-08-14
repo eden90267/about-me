@@ -132,7 +132,7 @@
 ### Back-End Program Language
 
 - Node.js *
-    - fs、event、util、stream、assert、process、REPL、PATH & URL
+    - fs、event、util、stream、assert、process、REPL、Path & URL
     - TCP、UDP、HTTP(S)
     - WebSocket
 - Java *
