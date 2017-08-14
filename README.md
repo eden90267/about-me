@@ -201,6 +201,11 @@
 - Prepros
 - fire.app
 
+### Software Engineering
+
+- Agile
+- Scrum
+
 ## 作品
 
 ## 自我介紹
