@@ -24,7 +24,7 @@
 #### 職務角色
 
 - 系統應用leader
-- Programmer Group兼Operation
+- Programming兼Operation
 - 團隊DevOps推動者
 - 財務專案與共用專案負責PG
 - 測試機器(SIT、SAT、Trial區)負責OP
