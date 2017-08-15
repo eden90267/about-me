@@ -452,10 +452,9 @@
     - Node.js (Koa 2)、Ejs、React、antd、MySQL
     - Deploy Env：Heroku
     - 註：free service會有ap sleep的情形，請耐心等待response
-- [Node與React搭建論壇網站](http://eden-liu.com/)
+- [Node與React搭建論壇網站](https://eden-liu.com/)
     - Node.js、Ejs、React.js、React-Redux、React-Router、JWT token、WebSocket、Redis、MongoDB
     - Deploy Env：AWS EC2 (Ubuntu 16.04)、Nginx、Redis、Node
-    - Todo：建構https認證服務
 
 ## 證照
 
