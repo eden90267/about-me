@@ -369,6 +369,7 @@
 ### OS
 
 - Ubuntu 14.04、16.04 *
+- CoreOS *
 - Centos 7
 - MacOS *
 - Windows *
