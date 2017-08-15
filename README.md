@@ -1,6 +1,6 @@
 # 劉育廷（Eden Liu）
 
-- Birthday：06/26/1988
+- Birthday：1988/06/26
 - Education：私立佛光大學 - 資訊工程系
 - Personal Website：[https://eden90267.github.io/](https://eden90267.github.io/)
 - Location：Taichung
@@ -13,7 +13,13 @@
 
 #### 工作資歷
 
+2011/08 - 2011/09：2 month
+
 #### 職務角色
+
+- Flash動畫設計師
+- 文宣與網頁美編設計師
+- 網路行銷人員
 
 #### 職務內容
 
@@ -21,7 +27,13 @@
 
 #### 工作資歷
 
+2011/09 - 2014/04，工作年資：2 year and 8 month
+
 #### 職務角色
+
+- Mobile App工程師 (Android)
+- 網頁應用程式設計師
+- 電腦軟硬體維修人員
 
 #### 職務內容
 
@@ -29,7 +41,11 @@
 
 #### 工作資歷
 
+2014/04 - 2014/05，工作年資：1 month
+
 #### 職務角色
+
+- 網頁應用程式設計師
 
 #### 職務內容
 
@@ -37,7 +53,7 @@
 
 #### 工作資歷
 
-??/??/2015 - 至今，工作年資：3+ year
+2014/05 - 至今，工作年資：3+ year
 
 #### 職務角色
 
@@ -211,6 +227,10 @@
 - SQL Server
 - SQLite
 
+### Mobile Development
+
+- Android
+
 ### Back-End Program Language
 
 - Node.js *
@@ -234,6 +254,8 @@
     - middleware
 - Mongoose *
 - Passport *
+- WebSocket
+    - socket.io
 - Spring Framework *
 - Spring Boot *
 - Spring Cloud
@@ -260,6 +282,12 @@
 - Vagrant *
 - ELK (Elasticsearch、Logstash & Kibana) *
 - Kubernetes
+
+### Web Container
+
+- Tomcat
+- GlassFish
+- Payara
 
 ### OS
 
@@ -326,11 +354,12 @@
 
 ### Todo List
 
-- [農場備忘](https://eden90267.github.io/hex-js/ch10/localstorage-hwTalk/)
+- [todolist-js](https://eden90267.github.io/hex-js/ch10/localstorage-hwTalk/)
     - HTML、CSS、JavaScript、LocalStorage
 - [todolist-vue](https://eden90267.github.io/todolist-vue/)
     - HTML、CSS、JavaScript、vue
-
+- [todolist-react-and-redux]()
+    - HTML、CSS、React、Redux、ReactCSSTransitionGroup
 
 ### Google Chrome Extension
 
@@ -341,9 +370,26 @@
 
 ### Dynamic Web Application
 
-- [登陸、登出與註冊應用程式]()
-    - Node.js + Ejs + Koa 2 + React + antd + MySQL
-- [論壇網站]()
+- [Node搭建登陸、登出與註冊應用程式]()
+    - Node.js、Ejs、Passport、MongoDB
+    - Deploy Env：Heroku
+- [Node與React搭建登陸、登出與註冊應用程式]()
+    - Node.js (Koa 2)、Ejs、React、antd、MySQL
+    - Deploy Env：Heroku
+- [Node與React搭建論壇網站](http://eden-liu.com/)
+    - Node.js、Ejs、React.js、React-Redux、React-Router、JWT token、WebSocket、Redis、MongoDB
+    - Deploy Env：AWS EC2 (Ubuntu 16.04)、Nginx、Redis、Node
+    - Todo：建構https認證服務
+
+## 證照
+
+- MCTS
+    - .NET Framework 4, Data Access
+    - .NET Framework 4, Web Applications
+    - SQL Server 2008, Implementation and Maintenance
+    - SQL Server 2008, Database Development
+- Oracle 10g OCE、OCA DBA
+- OCPJP、OCPWCD
 
 ## 自我介紹
 
