@@ -18,7 +18,7 @@
 #### 職務角色
 
 - Flash動畫設計師
-- 文宣與網頁美編設計師
+- 網頁設計師
 - 網路行銷人員
 
 #### 職務內容
@@ -31,6 +31,7 @@
 
 #### 職務角色
 
+- Flash動畫設計師
 - Mobile App工程師 (Android)
 - 網頁應用程式設計師
 - 電腦軟硬體維修人員
@@ -241,7 +242,7 @@
     - Guava
     - Collection Stream
 - C#
-- Virtual Basic
+- Visual Basic
 
 ### Back-End Framework & library
 
@@ -358,8 +359,8 @@
     - HTML、CSS、JavaScript、LocalStorage
 - [todolist-vue](https://eden90267.github.io/todolist-vue/)
     - HTML、CSS、JavaScript、vue
-- [todolist-react-and-redux]()
-    - HTML、CSS、React、Redux、ReactCSSTransitionGroup
+- [todolist-react-and-redux](https://eden90267.github.io/todolist-react-and-redux/build/)
+    - HTML、CSS、React、Redux、Redux-Thunk、ReactCSSTransitionGroup
 
 ### Google Chrome Extension
 
@@ -370,10 +371,10 @@
 
 ### Dynamic Web Application
 
-- [Node搭建登陸、登出與註冊應用程式]()
+- [Node搭建登陸、登出與註冊應用程式](https://shrouded-meadow-22448.herokuapp.com/)
     - Node.js、Ejs、Passport、MongoDB
     - Deploy Env：Heroku
-- [Node與React搭建登陸、登出與註冊應用程式]()
+- [Node與React搭建登陸、登出與註冊應用程式](https://shrouded-mountain-60672.herokuapp.com/)
     - Node.js (Koa 2)、Ejs、React、antd、MySQL
     - Deploy Env：Heroku
 - [Node與React搭建論壇網站](http://eden-liu.com/)
@@ -392,5 +393,14 @@
 - OCPJP、OCPWCD
 
 ## 自我介紹
+
+- 6+ year 以上程式相關工作經驗
+- 從後端墜入前端的全端工程師，為求更多的面向來解決與優化各項問題
+- 從大學實現專題"教師預先排課系統"後，便對程式產生熱愛，往往實現一個小小功能程式而徹夜不眠，就為取得那滴點的成就感
+- 熱衷於嘗試、專研與分享各項程式語言與相關技術：Visual Basic、C#、Java、Shell Script、HTML5/CSS3、JavaScript到Node.js，從中不斷累積多元技術與順應趨勢，以求最高的問題分析、改善與用戶體驗的處理能力
+- 熱愛TDD模式與E2E Testing，沒寫測試就上線的軟體，就像是沒穿衣服就上街一樣
+- 對DevOps的文化與相關自動化流程工具情有獨鍾，所謂以懶人為最高原則，一道程序要做兩次就會想盡法讓它自動化
+- 
+
 
 ## 未來展望
