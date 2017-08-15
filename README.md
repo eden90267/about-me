@@ -338,6 +338,7 @@
     - EJB
 - Hibernates *
 - MyBatis *
+- iReport、JasperReport *
 - ASP.NET
 - Entity Framework
 
