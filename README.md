@@ -454,7 +454,7 @@
     - 註：free service會有ap sleep的情形，請耐心等待response
 - [Node與React搭建論壇網站](https://eden-liu.com/)
     - Node.js、Ejs、React.js、React-Redux、React-Router、JWT token、WebSocket、Redis、MongoDB
-    - Deploy Env：AWS EC2 (Ubuntu 16.04)、Nginx、Redis、Node
+    - Deploy Env：AWS EC2 (Ubuntu 16.04)、Nginx、Redis、Node、pm2
 
 ## 證照
 
