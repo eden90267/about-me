@@ -435,7 +435,7 @@
 - [todolist-js](https://eden90267.github.io/hex-js/ch10/localstorage-hwTalk/)
     - HTML、CSS、JavaScript、LocalStorage
 - [todolist-vue](https://eden90267.github.io/todolist-vue/)
-    - HTML、CSS、JavaScript、Bootstrap、vue
+    - HTML、CSS、JavaScript、Bootstrap、vue
 - [todolist-react-and-redux](https://eden90267.github.io/todolist-react-and-redux/build/)
     - HTML、CSS、React、Redux、Redux-Thunk、ReactCSSTransitionGroup
 
