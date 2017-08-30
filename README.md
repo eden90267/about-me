@@ -472,6 +472,25 @@
 - Oracle 10g OCE、OCA DBA
 - OCPJP、OCPWCD
 
+## 企業內部教育訓練
+
+以下是在當前企業做技術傳教士的一系列前端技術分享Schedule，主題連結為簡報，並掛上分享日期，時間約略40分鐘
+
+1. [來來來，都打包，我們包好包滿：Webpack](https://hackmd.io/p/HJ792fzYb#/) - 9/1
+
+    sample：[高雄旅遊資訊網(webpack + js(ES6/ES7) + sass + jquery + bootstrap 3.3.7)](https://github.com/eden90267/kaohsiung-travel-info)
+
+2. 親愛的，我把CSS模組化了：SASS/Compass - 9/8
+3. 網頁前端也可以自動化到嫑嫑的？gulp，任務管理器 - 9/15
+4. 不要再覺得JavaScript像玩具語言了，教你最潮的ES6/ES7！ - 9/22
+5. 還在波動拳callback hell？老天，現在是2017，沒有在怕了：Promise、Generator與async/await - 9/29
+6. 牛逼！REST API介接Mongodb搭建只要20分鐘？ Node.js + Express + Mongoose + Mongodb - 未定
+7. 原來Facebook都這樣幹的(part 1)：React快速打造TodoList - 未定
+8. 原來Facebook都這樣幹的(part 2)：React + Redux快速打造TodoList - 未定
+9. 原來Facebook都這樣幹的(part 3)：React + Redux + Redux-Promise + React-Router + antd + node.js + express + redis + jwt + mongoose + mongodb快速搭建登錄登出與註冊網站，並實現Server Side Render - 未定
+10. 來為你的專案穿衣服上街吧！測試框架：Mocha + Chai、Jest、jsdom、supertest與E2E Framework：WebDriverIO - 未定
+11. 一起來抵制jQuery，網頁動畫特效入門：Canvas與D3.js - 未定
+
 ## 自我介紹
 
 - 6+ year 以上程式相關工作經驗
