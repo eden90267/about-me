@@ -428,7 +428,7 @@
     - HTML、CSS、JavaScript、Google Map API、Ajax、Snazzy Maps
     - 註：需允許載入不安全指令碼，因外接API不具https
 - [whinepad](https://eden90267.github.io/reactbook/whinepad3/index.html)
-    - HTML、CSS、JavaScript、React、Flux、LocalStorage
+    - HTML、CSS、JavaScript、React、Flux、Immutable、fbemitter、flow、LocalStorage
 
 ### Todo List
 
