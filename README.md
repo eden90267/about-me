@@ -472,7 +472,7 @@
 - Oracle 10g OCE、OCA DBA
 - OCPJP、OCPWCD
 
-下載點：[MCTS程式與資料庫證照](https://pda.104.com.tw/my104/download/y21474b4t2e444b464a444w244y2/upload3.PDF/MCTS%E7%A8%8B%E5%BC%8F%E8%88%87%E8%B3%87%E6%96%99%E5%BA%AB%E8%AA%8D%E8%AD%89%E8%AD%89%E7%85%A7.PDF)、 [Oracle與Java證照與原廠授課證明](https://pda.104.com.tw/my104/download/y21474b4t2e444b464a444w244y2/upload2.zip/Oracle%E8%88%87Java%E8%AD%89%E7%85%A7%E8%88%87%E5%8E%9F%E5%BB%A0%E6%8E%88%E8%AA%B2%E8%AD%89%E6%98%8E.zip)
+下載點：[MCTS程式與資料庫證照](https://github.com/eden90267/about-me/raw/master/MCTS%E7%A8%8B%E5%BC%8F%E8%88%87%E8%B3%87%E6%96%99%E5%BA%AB%E8%AA%8D%E8%AD%89%E8%AD%89%E7%85%A7.PDF)、 [Oracle與Java證照與原廠授課證明](https://github.com/eden90267/about-me/raw/master/Oracle%E8%88%87Java%E8%AD%89%E7%85%A7%E8%88%87%E5%8E%9F%E5%BB%A0%E6%8E%88%E8%AA%B2%E8%AD%89%E6%98%8E.zip)
 
 ## 企業內部教育訓練
 
