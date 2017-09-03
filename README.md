@@ -427,8 +427,8 @@
 - [高雄旅遊Google Map](https://eden90267.github.io/hex-js/ch14/GoogleMap-select-and-json/)
     - HTML、CSS、JavaScript、Google Map API、Ajax、Snazzy Maps
     - 註：需允許載入不安全指令碼，因外接API不具https
-- [whinepad](https://eden90267.github.io/reactbook/whinepad3/index.html)
-    - HTML、CSS、JavaScript、React、Flux、Immutable、fbemitter、flow、LocalStorage
+- [whinepad](https://eden90267.github.io/whinepad/dist/)
+    - Pug、SASS、React、Flux、Immutable、fbemitter、LocalStorage、eslint、flow、jest
 
 ### Todo List
 
@@ -448,11 +448,11 @@
 
 ### Dynamic Web Application
 
-- [Node搭建登陸、登出與註冊應用程式](https://shrouded-meadow-22448.herokuapp.com/)
+- [Node搭建登陸與註冊應用程式](https://shrouded-meadow-22448.herokuapp.com/)
     - Node.js、Ejs、Passport、MongoDB
     - Deploy Env：Heroku
     - 註：free service會有ap sleep的情形，請耐心等待response
-- [Node與React搭建登陸、登出與註冊應用程式](https://shrouded-mountain-60672.herokuapp.com/)
+- [Node與React搭建登陸與註冊應用程式](https://shrouded-mountain-60672.herokuapp.com/)
     - Node.js (Koa 2)、Ejs、React、antd、MySQL
     - Deploy Env：Heroku
     - 註：free service會有ap sleep的情形，請耐心等待response
@@ -472,13 +472,15 @@
 - Oracle 10g OCE、OCA DBA
 - OCPJP、OCPWCD
 
+下載點：[MCTS程式與資料庫證照](https://pda.104.com.tw/my104/download/y21474b4t2e444b464a444w244y2/upload3.PDF/MCTS%E7%A8%8B%E5%BC%8F%E8%88%87%E8%B3%87%E6%96%99%E5%BA%AB%E8%AA%8D%E8%AD%89%E8%AD%89%E7%85%A7.PDF)、 [Oracle與Java證照與原廠授課證明](https://pda.104.com.tw/my104/download/y21474b4t2e444b464a444w244y2/upload2.zip/Oracle%E8%88%87Java%E8%AD%89%E7%85%A7%E8%88%87%E5%8E%9F%E5%BB%A0%E6%8E%88%E8%AA%B2%E8%AD%89%E6%98%8E.zip)
+
 ## 企業內部教育訓練
 
 以下是在當前企業做技術傳教士的一系列前端技術分享Schedule，主題連結為簡報，並掛上分享日期，時間約略40分鐘
 
 1. [來來來，都打包，我們包好包滿：Webpack](https://hackmd.io/p/HJ792fzYb#/) - 9/1
 
-    sample：[高雄旅遊資訊網(webpack + js(ES6/ES7) + sass + jquery + bootstrap 3.3.7)](https://github.com/eden90267/kaohsiung-travel-info)
+    sample：[高雄旅遊資訊網：JavaScript(ES6/ES7)、sass、jquery、bootstrap 3.3.7)](https://github.com/eden90267/kaohsiung-travel-info)
 
 2. 親愛的，我把CSS模組化了：SASS/Compass - 9/8
 3. 網頁前端也可以自動化到嫑嫑的？gulp，任務管理器 - 9/15
