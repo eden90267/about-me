@@ -419,7 +419,7 @@
     - HTML、CSS、JavaScript、babel、bower、gulp
 - [iRich 愛記帳](https://eden90267.github.io/irich/)
     - HTML、CSS、JavaScript、Bootstrap、Chart.js、babel、bower、gulp、Firebase
-- [高雄旅遊網](https://eden90267.github.io/hex-js/hw1/)
+- [高雄旅遊網](https://eden90267.github.io/kaohsiung-travel-info/dist/)
     - HTML、CSS、JavaScript、Bootstrap、RWD、jQuery Ajax
     - 註：需允許載入不安全指令碼，因外接API不具https
 - [BMI Calculator](https://eden90267.github.io/hex-js/hw2/)
