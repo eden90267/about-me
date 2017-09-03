@@ -480,7 +480,7 @@
 
 1. [來來來，都打包，我們包好包滿：Webpack](https://hackmd.io/p/HJ792fzYb#/) - 9/1
 
-    sample：[高雄旅遊資訊網：JavaScript(ES6/ES7)、sass、jquery、bootstrap 3.3.7)](https://github.com/eden90267/kaohsiung-travel-info)
+    sample：[高雄旅遊資訊網：JavaScript(ES6/ES7)、SASS、jQuery、bootstrap 3.3.7)](https://github.com/eden90267/kaohsiung-travel-info)
 
 2. 親愛的，我把CSS模組化了：SASS/Compass - 9/8
 3. 網頁前端也可以自動化到嫑嫑的？gulp，任務管理器 - 9/15
