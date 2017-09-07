@@ -420,10 +420,10 @@
 - [iRich 愛記帳](https://eden90267.github.io/irich/)
     - HTML、CSS、JavaScript、Bootstrap、Chart.js、babel、bower、gulp、Firebase
 - [高雄旅遊網](https://eden90267.github.io/kaohsiung-travel-info/dist/)
-    - HTML、CSS、JavaScript、Bootstrap、RWD、jQuery Ajax
+    - HTML、SASS、Bootstrap、RWD、JavaScript(ES6/ES7)、jQuery
     - 註：需允許載入不安全指令碼，因外接API不具https
-- [BMI Calculator](https://eden90267.github.io/hex-js/hw2/)
-    - HTML、CSS、JavaScript、Bootstrap、RWD、LocalStorage
+- [BMI Calculator](https://eden90267.github.io/bmi-calculator/dist/)
+    - Pug、SASS、Bootstrap、RWD、React、Redux、LocalStorage、eslint
 - [高雄旅遊Google Map](https://eden90267.github.io/hex-js/ch14/GoogleMap-select-and-json/)
     - HTML、CSS、JavaScript、Google Map API、Ajax、Snazzy Maps
     - 註：需允許載入不安全指令碼，因外接API不具https
@@ -482,7 +482,10 @@
 
     sample：[高雄旅遊資訊網：JavaScript(ES6/ES7)、SASS、jQuery、bootstrap 3.3.7)](https://github.com/eden90267/kaohsiung-travel-info)
 
-2. 親愛的，我把CSS模組化了：SASS/Compass - 9/8
+2. [親愛的，我把CSS模組化了：SASS/Compass](https://hackmd.io/p/SywjempFW#/) - 9/8
+
+    sample: [BMI Calculator：Pug + SASS + bootstrap 3.3.7 + React + Redux + LocalStorage + eslint](https://github.com/eden90267/bmi-calculator)
+
 3. 網頁前端也可以自動化到嫑嫑的？gulp，任務管理器 - 9/15
 4. 不要再覺得JavaScript像玩具語言了，教你最潮的ES6/ES7！ - 9/22
 5. 還在波動拳callback hell？老天，現在是2017，沒有在怕了：Promise、Generator與async/await - 9/29
