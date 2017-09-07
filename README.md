@@ -121,7 +121,7 @@
 
 - 自來水會計系統 (無法公開)
 
-    為動態網站系統, 主負責專案問題issue開發與排除，涉及技術：JSP、Spring MVC、hibernate、SQL Server、subversion
+    為動態網站系統, 主負責專案問題issue開發與排除。
 
 ### 4. 中佑資訊有限公司 - 系統開發工程師
 
