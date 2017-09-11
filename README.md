@@ -486,7 +486,10 @@
 
     sample: [BMI Calculator：Pug + SASS + bootstrap 3.3.7 + React + Redux + LocalStorage + eslint](https://github.com/eden90267/bmi-calculator)
 
-3. 網頁前端也可以自動化到嫑嫑的？gulp，任務管理器 - 9/15
+3. [網頁前端也可以自動化到嫑嫑的？gulp ‧ 任務管理器](https://hackmd.io/p/S1QrPn79Z#/) - 9/15
+
+    sample: [gulp-demo-project](https://github.com/eden90267/gulp-demo-project)
+
 4. 不要再覺得JavaScript像玩具語言了，教你最潮的ES6/ES7！ - 9/22
 5. 還在波動拳callback hell？老天，現在是2017，沒有在怕了：Promise、Generator與async/await - 9/29
 6. 牛逼！REST API介接Mongodb搭建只要20分鐘？ Node.js + Express + Mongoose + Mongodb - 未定
