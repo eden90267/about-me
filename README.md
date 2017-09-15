@@ -490,14 +490,15 @@
 
     sample: [gulp-demo-project](https://github.com/eden90267/gulp-demo-project)
 
-4. 不要再覺得JavaScript像玩具語言了，教你最潮的ES6/ES7！ - 9/22
-5. 還在波動拳callback hell？老天，現在是2017，沒有在怕了：Promise、Generator與async/await - 9/29
-6. 牛逼！REST API介接Mongodb搭建只要20分鐘？ Node.js + Express + Mongoose + Mongodb - 未定
-7. 原來Facebook都這樣幹的(part 1)：React快速打造TodoList - 未定
-8. 原來Facebook都這樣幹的(part 2)：React + Redux快速打造TodoList - 未定
-9. 原來Facebook都這樣幹的(part 3)：React + Redux + Redux-Promise + React-Router + antd + node.js + express + redis + jwt + mongoose + mongodb快速搭建登錄登出與註冊網站，並實現Server Side Render - 未定
-10. 來為你的專案穿衣服上街吧！測試框架：Mocha + Chai、Jest、jsdom、supertest與E2E Framework：WebDriverIO - 未定
-11. 一起來抵制jQuery，網頁動畫特效入門：Canvas與D3.js - 未定
+4. 零基礎的HTML/CSS網頁設計入門(上) - 9/22
+5. 零基礎的HTML/CSS網頁設計入門(下) - 9/29
+6. 不要再覺得JavaScript像玩具語言了，教你最潮的ES6/ES7！ - 10/6
+7. 牛逼！REST API介接Mongodb搭建只要20分鐘？ Node.js + Express + Mongoose + Mongodb - 未定
+8. 原來Facebook都這樣幹的(part 1)：React快速打造TodoList - 未定
+9. 原來Facebook都這樣幹的(part 2)：React + Redux快速打造TodoList - 未定
+10. 原來Facebook都這樣幹的(part 3)：React + Redux + Redux-Promise + React-Router + antd + node.js + express + redis + jwt + mongoose + mongodb快速搭建登錄登出與註冊網站，並實現Server Side Render - 未定
+11. 來為你的專案穿衣服上街吧！測試框架：Mocha + Chai、Jest、jsdom、supertest與E2E Framework：WebDriverIO - 未定
+12. 一起來抵制jQuery，網頁動畫特效入門：Canvas與D3.js - 未定
 
 ## 自我介紹
 
