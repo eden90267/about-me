@@ -490,7 +490,7 @@
 
     sample: [gulp-demo-project](https://github.com/eden90267/gulp-demo-project)
 
-4. 零基礎的HTML/CSS網頁設計入門(上) - 9/22
+4. [零基礎的HTML/CSS網頁設計入門(上)](https://hackmd.io/p/Byy7f69qZ#/) - 9/22
 5. 零基礎的HTML/CSS網頁設計入門(下) - 9/29
 6. 不要再覺得JavaScript像玩具語言了，教你最潮的ES6/ES7！ - 10/6
 7. 牛逼！REST API介接Mongodb搭建只要20分鐘？ Node.js + Express + Mongoose + Mongodb - 未定
