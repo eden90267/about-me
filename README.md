@@ -408,6 +408,8 @@
     - HTML、CSS
 - [donut-whole](https://eden90267.github.io/donut-whole/)
     - HTML、CSS、Google Font
+- [諾浩義式餐廳](https://eden90267.github.io/know-how-restaurant/)
+    - HTML、CSS
 - [午茶室](https://eden90267.github.io/afternoon-tea-room/)
     - HTML、CSS、Bootstrap、animate、RWD、Google Map API
 - [六角線上教學首頁](https://eden90267.github.io/hex-school-final-hw/)
