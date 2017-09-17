@@ -482,7 +482,7 @@
 
 1. [來來來，都打包，我們包好包滿：Webpack](https://hackmd.io/p/HJ792fzYb#/) - 9/1
 
-    sample: [高雄旅遊資訊網：JavaScript(ES6/ES7)、SASS、jQuery、bootstrap 3.3.7)](https://github.com/eden90267/kaohsiung-travel-info)
+    sample: [高雄旅遊資訊網：JavaScript(ES6/ES7)、SASS、jQuery、bootstrap 3.3.7](https://github.com/eden90267/kaohsiung-travel-info)
 
 2. [親愛的，我把CSS模組化了：SASS/Compass](https://hackmd.io/p/SywjempFW#/) - 9/8
 
