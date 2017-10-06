@@ -421,6 +421,8 @@
     - HTML、CSS、RWD
 - [六角部落格](https://eden90267.github.io/bs4-hex-blog/)
     - HTML、CSS、Bootstrap 4
+- [六角形象首頁](https://eden90267.github.io/bs4-hex-landing/)
+    - HTML、CSS、Bootstrap 4
 - [pokemon-fight](https://eden90267.github.io/pokemon-fight/)
     - HTML、CSS、JavaScript、babel、bower、gulp
 - [iRich 愛記帳](https://eden90267.github.io/irich/)
