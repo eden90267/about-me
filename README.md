@@ -420,9 +420,9 @@
     - [首頁](https://eden90267.github.io/hex-school-rwd-final-hw/) 、[登入頁](https://eden90267.github.io/hex-school-rwd-final-hw/login.html)、 [註冊頁](https://eden90267.github.io/hex-school-rwd-final-hw/registry.html)、 [產品訂購頁](https://eden90267.github.io/hex-school-rwd-final-hw/cart.html)
     - HTML、CSS、RWD
 - [六角部落格](https://eden90267.github.io/bs4-hex-blog/)
-    - HTML、CSS、Bootstrap 4
+    - HTML、CSS、Bootstrap 4
 - [六角形象首頁](https://eden90267.github.io/bs4-hex-landing/)
-    - HTML、CSS、Bootstrap 4
+    - HTML、CSS、Bootstrap 4
 - [pokemon-fight](https://eden90267.github.io/pokemon-fight/)
     - HTML、CSS、JavaScript、babel、bower、gulp
 - [iRich 愛記帳](https://eden90267.github.io/irich/)
