@@ -431,7 +431,7 @@
     - HTML、SASS、Bootstrap、RWD、JavaScript(ES6/ES7)、jQuery
     - 註：需允許載入不安全指令碼，因外接API不具https
 - [井字遊戲](https://eden90267.github.io/react-raiders/ch12/tic-tac-toe-game.htm)
-    - HTML、CSS、React
+    - HTML、CSS、React
 - [BMI Calculator](https://eden90267.github.io/bmi-calculator/dist/)
     - Pug、SASS、Bootstrap、RWD、React、Redux、LocalStorage、eslint
 - [高雄旅遊Google Map](https://eden90267.github.io/hex-js/ch14/GoogleMap-select-and-json/)
@@ -500,9 +500,9 @@
 
     sample: [gulp-demo-project](https://github.com/eden90267/gulp-demo-project)
 
-4. [零基礎的HTML/CSS網頁設計入門(上)](https://hackmd.io/p/Byy7f69qZ#/) - 9/22、10/6
-5. 零基礎的HTML/CSS網頁設計入門(下) - 10/13
-6. 不要再覺得JavaScript像玩具語言了，教你最潮的ES6/ES7！ - 10/6
+4. [零基礎的HTML/CSS網頁設計入門(上)](https://hackmd.io/p/Byy7f69qZ#/) - 9/22
+5. 零基礎的HTML/CSS網頁設計入門(下) - 未定
+6. 不要再覺得JavaScript像玩具語言了，教你最潮的ES6/ES7！ - 未定
 7. 牛逼！REST API介接Mongodb搭建只要20分鐘？ Node.js + Express + Mongoose + Mongodb - 未定
 8. 原來Facebook都這樣幹的(part 1)：React快速打造TodoList - 未定
 9. 原來Facebook都這樣幹的(part 2)：React + Redux快速打造TodoList - 未定
