@@ -430,6 +430,8 @@
 - [高雄旅遊網](https://eden90267.github.io/kaohsiung-travel-info/dist/)
     - HTML、SASS、Bootstrap、RWD、JavaScript(ES6/ES7)、jQuery
     - 註：需允許載入不安全指令碼，因外接API不具https
+- [井字遊戲](https://eden90267.github.io/react-raiders/ch12/tic-tac-toe-game.htm)
+    - HTML、CSS、React
 - [BMI Calculator](https://eden90267.github.io/bmi-calculator/dist/)
     - Pug、SASS、Bootstrap、RWD、React、Redux、LocalStorage、eslint
 - [高雄旅遊Google Map](https://eden90267.github.io/hex-js/ch14/GoogleMap-select-and-json/)
