@@ -176,3 +176,6 @@
     - XHTML、jQuery、SASS/Compass、Webpack、Gulp、JSF (Primefaces)、Spring、Spring boot、Hibernates、MariaDB
 - 客戶來訪管理系統
     - XHTML、jQuery、JSF (Primefaces)、Spring、EclipseLink、MariaDB
+
+## 5. 104 資訊科技 - Senior Front-End Developer
+

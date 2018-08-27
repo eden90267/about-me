@@ -4,22 +4,22 @@
 
 - 瞭解HTML語意標籤與適用場合、SEO optimize
 - HTML 5
-    - html tag
-    - drag and drop
-    - process
-    - web worker
-- 能使用CSS進行網頁排版
-- 能使用CSS Media Query實現RWD響應式設計
-- 瞭解CSS3 Animate、transform、transition與selector
+  - html tag
+  - drag and drop
+  - process
+  - web worker
+- 能使用 CSS 進行網頁排版
+- 能使用 CSS Media Query 實現 RWD 響應式設計
+- 瞭解 CSS3 Animate、transform、transition 與 selector
 
 ## CSS Framework
 
 - Bootstrap *
-    - Grid
-    - Navigation
-    - Table & Content
-    - Form
-    - JS Plugin & Component
+  - Grid
+  - Navigation
+  - Table & Content
+  - Form
+  - JS Plugin & Component
 
 ## CSS Preprocessors
 
@@ -29,26 +29,28 @@
 ## JavaScript/Framework
 
 - 原生JavaScript *
-    - AJAX (XmlHttpRequest)
-    - 非同步設計
-        - Callback
-        - Promise
-        - Generator
-        - async/await
-    - ES6/ES7
+  - AJAX (XmlHttpRequest)
+  - 非同步設計
+    - Callback
+    - Promise
+    - Generator
+    - async/await
+  - ES6/ES7
 - jQuery *
-    - animate
-    - ajax
-    - plugin
-    - jQuery UI
+  - animate
+  - ajax
+  - plugin
+  - jQuery UI
 - React & Flux & Redux *
-    - React-Router
-    - Redux-Thunk、Redux-Promise、Redux-Saga
-    - React Animate
-        - ReactCSSTransitionGroup
-        - React-Motion
-    - Isomorphic
-- Vue
+  - React-Router
+  - Redux-Thunk、Redux-Promise、Redux-Saga
+  - React Animate
+    - ReactCSSTransitionGroup
+    - React-Motion
+  - Isomorphic
+- Angular 6 *
+- TweenMax
+- Canvas
 - Google API
 - Facebook for Developers
 
@@ -61,22 +63,22 @@
 ## Version Control
 
 - Git & Github *
-    - branch operation (create、checkout、commit、pull/push)
-    - reset (--soft、--hard)
-    - stash
-    - merge、resolve conflict
-    - rebase
-    - pull request
-    - diff
-    - Github page
+  - branch operation (create、checkout、commit、pull/push)
+  - reset (--soft、--hard)
+  - stash
+  - merge、resolve conflict
+  - rebase
+  - pull request
+  - diff
+  - Github page
 - Hg (Mercurial SCM)
 
 ## Module Bundler
 
 - webpack *
-    - loader
-    - plugin
-    - web-dev-server
+  - loader
+  - plugin
+  - web-dev-server
 - browserify
 
 ## Task Manager
@@ -117,41 +119,42 @@
 
 ## Mobile Development
 
+- React Native *
 - Android
 
 ## Back-End Program Language
 
 - Node.js *
-    - require & module.exports、fs、event、util、stream、assert、process、REPL、Path & URL
-    - TCP、UDP、HTTP(S)
-    - WebSocket
+  - require & module.exports、fs、event、util、stream、assert、process、REPL、Path & URL
+  - TCP、UDP、HTTP(S)
+  - WebSocket
+- Golang
 - Java *
-    - Guava
-    - Collection Stream
+  - Guava
+  - Collection Stream
 - C#
 - Visual Basic
 
 ## Back-End Framework & library
 
 - Express *
-    - route
-    - middleware
-    - security
+  - route
+  - middleware
+  - security
 - Koa 2 *
-    - route
-    - middleware
+  - route
+  - middleware
 - Mongoose *
 - Passport *
 - WebSocket
-    - socket.io
-- Telegram bot
+  - socket.io
 - Spring Framework *
 - Spring Boot *
 - Spring Cloud
 - JavaEE *
-    - JSF & Primefaces
-    - JPA
-    - EJB
+  - JSF & Primefaces
+  - JPA
+  - EJB
 - Hibernates *
 - MyBatis *
 - iReport、JasperReport *
@@ -161,13 +164,14 @@
 ## DevOps Tools
 
 - Docker *
-    - command line
-    - Dockerfile
-    - Compose
-    - Networking
-    - Machine
-    - Swarm
+  - command line
+  - Dockerfile
+  - Compose
+  - Networking
+  - Machine
+  - Swarm
 - Jenkins *
+- Drone *
 - Ansible *
 - Vagrant *
 - ELK (Elasticsearch、Logstash & Kibana) *
