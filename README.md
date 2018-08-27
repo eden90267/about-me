@@ -1,13 +1,17 @@
 # 劉育廷（Eden Liu）
 
+從後端墜入前端的全端工程師，技術狂熱者，喜好吸收新知並且樂於分享。主要專注於 Web 開發技術、UI/UX 與數位行銷相關領域，提倡 TDD 開發 、CI 持續整合與 DevOps 流程自動化改善，立志成為 Web 全方位齊備的專業人士。
+
 - Birthday：1988/06/26
 - Education：私立佛光大學 - 資訊工程系
-- Personal Website：[https://eden90267.github.io/](https://eden90267.github.io/)
+- Personal Blog：[https://eden-liu.com/](https://eden-liu.com/)
 - Location：Taichung
 - E-Mail：eden90267@gmail.com
 - Mobile：0975-379232
 
 ## 工作經驗
+
+資歷：7+ years
 
 ### 1. 沛美生醫股份有限公司 - 網頁美編
 
