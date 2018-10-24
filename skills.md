@@ -43,11 +43,12 @@
   - jQuery UI
 - React & Flux & Redux *
   - React-Router
-  - Redux-Thunk、Redux-Promise、Redux-Saga
+  - Redux-Thunk、Redux-Promise、Redux-Observable
   - React Animate
     - ReactCSSTransitionGroup
     - React-Motion
   - Isomorphic
+  - React Native
 - Angular 6 *
 - TweenMax
 - Canvas
@@ -111,7 +112,7 @@
 
 - MongoDB *
 - MySQL/MariaDB *
-- Firebase
+- Firebase *
 - Redis
 - Oracle 10g/11g
 - SQL Server
@@ -144,6 +145,7 @@
 - Koa 2 *
   - route
   - middleware
+  - Egg.js
 - Mongoose *
 - Passport *
 - WebSocket
@@ -180,9 +182,10 @@
 
 ## Web Container
 
-- Tomcat
-- GlassFish
-- Payara
+- PM2 *
+- Tomcat *
+- GlassFish *
+- Payara *
 
 ## OS
 
@@ -195,6 +198,7 @@
 ## Cloud Services
 
 - Heroku *
+- GCP *
 - AWS
 
 ## IDE & Dev Tools
