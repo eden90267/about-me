@@ -75,6 +75,8 @@
 - 中佑資訊 ERP 公告管理系統
 - 中佑資訊 ERP 會議室管理系統
 - 中佑資訊 ERP 客戶來訪管理系統
+- [ALTA 考核管理系統](https://alta-hr.alta-club.com/)
+- [ALTA 員工評核手機應用程式 - Android](https://play.google.com/store/apps/details?id=com.altaassessment)
 - [104 求職端主網](https://www.104.com.tw/)
 - [104 求職端中高階](https://www.104.com.tw/jobs/main/higher)
 - [104 主動應徵](https://www.104.com.tw/jobs/apply/form?channel=104apply&jobsource=my104_apply)
