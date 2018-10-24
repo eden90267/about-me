@@ -75,8 +75,12 @@
 - 中佑資訊 ERP 公告管理系統
 - 中佑資訊 ERP 會議室管理系統
 - 中佑資訊 ERP 客戶來訪管理系統
-- [104 求職端主網](https://www.104.com.tw/jobs/main/)
+- [104 求職端主網](https://www.104.com.tw/)
+- [104 求職端中高階](https://www.104.com.tw/jobs/main/higher)
+- [104 主動應徵](https://www.104.com.tw/jobs/apply/form?channel=104apply&jobsource=my104_apply)
 - [104 求職端工作列表](https://www.104.com.tw/jobs/search/)
+- [104 線上打卡簽到系統](https://checkin.cofunc.com/)
+- [104 履歷診療室](https://resume-clinic.104.com.tw/)
 
 ### 個人作品
 
