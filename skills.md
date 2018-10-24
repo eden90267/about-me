@@ -50,8 +50,11 @@
   - Isomorphic
   - React Native
 - Angular 6 *
+- RxJS *
 - TweenMax
 - Canvas
+- D3.js
+  - C3.js
 - Google API
 - Facebook for Developers
 
