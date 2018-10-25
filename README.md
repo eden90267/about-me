@@ -123,6 +123,25 @@
     - 註：需允許載入不安全指令碼，因外接API不具https
 - [whinepad](https://eden90267.github.io/whinepad/dist/)
     - Pug、SASS、React、Flux、Immutable、fbemitter、LocalStorage、eslint、flow、jest
+- [The F2E - 前端修練精神時光屋 - Week 1 - 待辦清單 todolist](https://eden90267.github.io/f2e-01-todolist/dist/)
+    - React、Redux、Bootstrap4、Webpack3、Jest、Sass、ESlint、ES6、React-Router-v4、PostCSS
+- [The F2E - 前端修練精神時光屋 - Week 2 - 篩選器 filter](https://eden90267.github.io/f2e-02-filter/dist/)
+    - React、Redux、Bootstrap4、Webpack3、Jest、Sass、ESlint、ES6、React-Router-v4、PostCSS
+- [The F2E - 前端修練精神時光屋 - Week 3 -  訂單管理系統 admin order](https://eden90267.github.io/f2e-03-admin-order/dist/#/)
+    - React、Redux、Bootstrap4、Webpack3、Jest、Sass、ESlint、ES6、React-Router-v4、PostCSS
+- [The F2E - 前端修練精神時光屋 - Week 4 - Product Gallery](https://eden90267.github.io/f2e-04-product-gallery/public/)
+    - Jade、Sass、ES6、PostCSS、gulp、Bootstrap4、jQuery
+- [The F2E - 前端修練精神時光屋 - Week 5 - Comic Viewer](https://eden90267.github.io/f2e-05-comic-viewer/public/)
+    - Jade、Sass、ES6、PostCSS、gulp、Bootstrap4、jQuery
+- [The F2E - 前端修練精神時光屋 - Week 6 - Validation](https://eden90267.github.io/f2e-06-validation/dist/#/)
+    - React、Redux、Bootstrap4、Webpack3、Jest、Sass、ESlint、ES6、React-Router-v4、PostCSS
+- [The F2E - 前端修練精神時光屋 - Week 7 - Canvas Game](https://eden90267.github.io/f2e-07-canvas-game/)
+    - Canvas
+- [The F2E - 前端修練精神時光屋 - Week8 - Parallax Scrolling](https://eden90267.github.io/f2e-08-parallax-scrolling/public/)
+    - Jade、Sass、ES6、PostCSS、gulp、jQuery、Gsap、Scrollmagic
+- [The F2E - 前端修練精神時光屋 - Week 9 -  Skill Tree](https://eden90267.github.io/f2e-09-skill-tree/dist/)
+    - React、Redux、Bootstrap4、Webpack3、Jest、Sass、ESlint、ES6、React-Router-v4、PostCSS
+- [Eden Liu - The F2E 完賽證明](https://www.thef2e.com/Certificate/-LDy0zBvKh0aXaUozBZI)
 
 #### Todo List
 
