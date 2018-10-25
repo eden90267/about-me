@@ -82,7 +82,7 @@
 - [104 主動應徵](https://www.104.com.tw/jobs/apply/form?channel=104apply&jobsource=my104_apply)
 - [104 求職端工作列表](https://www.104.com.tw/jobs/search/)
 - [104 線上打卡簽到系統](https://checkin.cofunc.com/)
-- [104 履歷診療室](https://resume-clinic.104.com.tw/)
+- [104 履歷診療室](https://resume-clinic.104-dev.com.tw/index)
 
 ### 個人作品
 
