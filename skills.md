@@ -48,8 +48,13 @@
     - ReactCSSTransitionGroup
     - React-Motion
   - Isomorphic
+  - Next.js
   - React Native
 - Angular 6 *
+- Vue.js & Vuex *
+  - Vue-Router
+  - Vue Cli
+  - Nuxt.js
 - RxJS *
 - TweenMax
 - Canvas
