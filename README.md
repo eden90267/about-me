@@ -13,7 +13,7 @@
 ## Skills
 
 - HTML、CSS、JavaScript
-- Bootstrap、jQuery、React、Angular
+- Bootstrap、jQuery、React、Angular、Vue
 - Git
 - Node.js、Golang、Java、C#
 - React Native、Android
