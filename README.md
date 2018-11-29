@@ -173,11 +173,11 @@
     - Node.js、Ejs、Passport、MongoDB
     - Deploy Env：Heroku
     - 註：free service會有ap sleep的情形，請耐心等待response
-- [Node與React搭建登陸與註冊應用程式](https://shrouded-mountain-60672.herokuapp.com/)
+- [Node與React搭建登陸與註冊應用程式](https://github.com/eden90267/koa2-with-react)
     - Node.js (Koa 2)、Ejs、React、antd、MySQL
     - Deploy Env：Heroku
     - 註：free service會有ap sleep的情形，請耐心等待response
-- [Node與React搭建論壇網站](https://eden-liu.com/)
+- [Node與React搭建論壇網站](https://github.com/eden90267/node-with-react)
     - Node.js、Ejs、React、Redux、React-Router、JWT token、WebSocket、Redis、MongoDB
     - Deploy Env：AWS EC2 (Ubuntu 16.04)、Nginx、Redis、Node、pm2
 
