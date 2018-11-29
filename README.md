@@ -142,6 +142,12 @@
 - [The F2E - 前端修練精神時光屋 - Week 9 -  Skill Tree](https://eden90267.github.io/f2e-09-skill-tree/dist/)
     - React、Redux、Bootstrap4、Webpack3、Jest、Sass、ESlint、ES6、React-Router-v4、PostCSS
 - [Eden Liu - The F2E 完賽證明](https://www.thef2e.com/Certificate/-LDy0zBvKh0aXaUozBZI)
+- [電商網站-前台](https://eden90267.github.io/vue-vuex-exercise/dist)
+    - Vue、Vuex、Vue Router、Bootstrap 4、Sass、PostCSS、ESLint、ES6/7
+- [電商網站-後台](https://eden90267.github.io/vue-dashboard-record/dist)
+    - Vue、Vue Router、Bootstrap 4、Sass、PostCSS、ES6/7
+- [高雄旅遊資訊網](https://eden90267.github.io/kh-tourism/dist)
+    - Vue、Vuex、Bootstrap 4、Sass、PostCSS、ESLint、ES6/7
 
 #### Todo List
 
