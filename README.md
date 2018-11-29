@@ -32,10 +32,10 @@
 | 職務名稱                    | 公司                   | 資歷                |
 |:---------------------------|:----------------------|:-------------------|
 | 網頁美編                    | 沛美生醫股份有限公司     | 2 month            |
-| 資訊副主任                  | 超級數位科技股份有限公司 | 2 year and 8 month |
+| 資訊副主任                  | 超級數位科技股份有限公司 | 2 years and 8 month |
 | Java Engineer              | 康大資訊股份有限公司     | 1 month            |
-| JavaEE Engineer            | 中佑資訊有限公司        | 3 year and 7 month |
-| Senior Front-End Developer | 104 資訊科技           | 10 month ~ 至今     |
+| JavaEE Engineer            | 中佑資訊有限公司        | 3 years and 7 month |
+| Senior Front-End Developer | 104 資訊科技           | 1 year ~ now     |
 
 [Show detail...](./career.md)
 
