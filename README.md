@@ -146,6 +146,8 @@
     - Vue、Vuex、Vue Router、Bootstrap 4、Sass、PostCSS、ESLint、ES6/7
 - [電商網站-後台](https://eden90267.github.io/vue-dashboard-record/dist)
     - Vue、Vue Router、Bootstrap 4、Sass、PostCSS、ES6/7
+    - 測試帳號：eden90267@gmail.com
+    - 測試密碼：rg3jqRmnZsJe62y
 - [高雄旅遊資訊網](https://eden90267.github.io/kh-tourism/dist)
     - Vue、Vuex、Bootstrap 4、Sass、PostCSS、ESLint、ES6/7
 
