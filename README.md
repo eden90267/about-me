@@ -191,7 +191,7 @@
   - Sample：[gulp-demo-project](https://github.com/eden90267/gulp-demo-project)
 - [零基礎的HTML/CSS網頁設計入門(上)](https://hackmd.io/p/Byy7f69qZ#/)
 - [零基礎的HTML/CSS網頁設計入門(下)](https://hackmd.io/p/Byy7f69qZ#/)
-- [Angular 初體驗](./Angular-First-Experience-by-Eden.pptx)
+- [Angular 初體驗](https://github.com/eden90267/about-me/raw/master/Angular-First-Experience-by-Eden.pptx)
 
 ## 證照
 
